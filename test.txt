@@ -1,1 +1,15 @@
 Hello world
+create folder comp3104
+$ git init
+create file test.txt inside comop3104 folder
+
+$touch test.txt
+
+$ git status
+$ git add test.txt
+
+$ git commit -m "Added test.txt" 
+$ git config --global user.name "Nicholas Chinsen" 
+$ git config --global user.email "nicholaschinsen@gmail.com"
+
+$ git remote add origin https://github.com/
