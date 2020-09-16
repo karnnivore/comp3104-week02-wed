@@ -1,4 +1,6 @@
 Hello world
+Good evening
+How has your day been?
 create folder comp3104
 $ git init
 create file test.txt inside comop3104 folder
